@@ -22,9 +22,9 @@ description:         >
   그 과정을 남겨보려고 합니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
-author:
-  name:              xxxx
-  email:             xxxx@xxxx.com
+hyeonbae:
+  name:              HyunBae Kim
+  email:             gusqo14@naver.com
 
 # Fallback image and color
 image:               /assets/img/barcelona_bunker.JPG
