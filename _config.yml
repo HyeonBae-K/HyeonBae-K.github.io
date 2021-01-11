@@ -18,7 +18,8 @@ tagline:             "대학교를 다니며"
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  경영에 AI를 접목한 일을 하고 싶은 학생입니다.
+  경영에 AI를 접목한 일을 하고 싶은 학생입니다.  
+  
   그 과정을 남겨보려고 합니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
