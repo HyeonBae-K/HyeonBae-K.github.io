@@ -7,9 +7,9 @@ hyeonbae_k:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  # 자기 소개
+  # 자기 소개 (줄바꿈 어떻게?)
   about:             |
-    **간단한 자기소개** <br>
+    **간단한 자기소개** 
     저는 인공지능을 배우고 있는 대학생입니다.
 
 
