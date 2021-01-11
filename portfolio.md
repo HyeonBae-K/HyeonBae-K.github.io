@@ -10,40 +10,36 @@ order: 1
 <span style=
 "font-size:170%;
 font-weight:bold">
-김현우
+김현배
 </span>
 </center>
 
-<center>MAJOR : AI EENGINEERING</center>
+<center>MAJOR : MANAGEMENT / AI EENGINEERING</center>
 
-<center>Korean University</center>
+<center>Hansung University</center>
 
-<center>145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>116, Samseongyo-ro 16-gil, Seongbuk-gu, Seoul, Republic of Korea</center>
 
 ## Personal Data
 ---
-> 1995.11.4 대한민국,서울특별시,동작구 출생
+> 1997.4.25 대한민국,경기도 성남시,분당구 출생
 
-> 연락처: khw11044@gmail.com
+> 연락처: gusqo14@naver.com
 
-> Github : <a href="https://github.com/khw11044">https://github.com/khw11044</a>
+> Github : <a href="https://github.com/HyeonBae-K">https://github.com/HyeonBae-K</a>
 
 
 ## Education
 ---
-> Mar.2015 ~ Feb.2021 한성대학교
+> Mar.2016 ~ 한성대학교
 >
 > IT 융합공학부 (DIVISION OF IT CONVERGENCE ENGINEERING)
-
-> Feb.2021 ~ 현재 : 고려대학교
->
-> 인공지능 대학원 (이성한 교수님 연구실)
 
 
 ## Research Interest
 ---
 
-* Computer Vision
+<!-- * Computer Vision
     + image Object Detection
     + Vot
     + Semantic/Instance Segmentation
@@ -52,12 +48,12 @@ font-weight:bold">
 * Machine Learning / Deep Learning
     + GAN
     + Few-Shot Learning
-    + Meta Learning
+    + Meta Learning -->
 
 ## Project
 ---
 
-* **Visual Object Tracking Using Plenoptic Image Sequences**
+<!-- * **Visual Object Tracking Using Plenoptic Image Sequences**
 
 과학기술정보통신부-한성대 프로젝트 : 학부생 인턴
 
@@ -73,12 +69,12 @@ SSD를 활용한 드론 탐지프로그램으로 라즈베리파이와 3D프린�
 
 * **AI Mashroom Classificator App**
 
-mobileNet을 이용한 classification으로 버섯을 구별해주는 인공지능 버섯 도감 어플로서 독버섯 채취 및 섭취 방지를 위한 어플
+mobileNet을 이용한 classification으로 버섯을 구별해주는 인공지능 버섯 도감 어플로서 독버섯 채취 및 섭취 방지를 위한 어플 -->
 
 ## Awards
 ---
 
-<u><strong><a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q/">**The 15th HANSUNG Engineering Competitive Exhibition[PM] 2019 </a></strong></u>
+<!-- <u><strong><a href="https://www.youtube.com/watch?v=-ofj2vTvH0Q/">**The 15th HANSUNG Engineering Competitive Exhibition[PM] 2019 </a></strong></u>
 
 - BRONZE PRIZE, SPONSOR PRIZE
 
@@ -101,24 +97,24 @@ mobileNet을 이용한 classification으로 버섯을 구별해주는 인공지�
 
 Hansung Univ – ETRI
 
-<a herf="https://github.com/khw11044/PlenOpticVot_Siamfc_2020">https://github.com/khw11044/PlenOpticVot_Siamfc_2020</a>
+<a herf="https://github.com/khw11044/PlenOpticVot_Siamfc_2020">https://github.com/khw11044/PlenOpticVot_Siamfc_2020</a> -->
 
 
 ## Skills and Certification
 ---
--Language : Python, C/C++
+<!-- -Language : Python, C/C++
 
 -FrameWork: Pytorch, Tensorflow(Keras)
 
--Certification : CCNA, Internet of Things Knowledge Certification
+-Certification : CCNA, Internet of Things Knowledge Certification -->
 
 ## Patents
 ---
-【발명의 영문명칭】: Image-based anti-drone detection device and metohd using deep learning model
+<!-- 【발명의 영문명칭】: Image-based anti-drone detection device and metohd using deep learning model
 
 【출원번호】: 10-2020-0080646
 
-【출원인】: 김현우, 김태현, 제진명
+【출원인】: 김현우, 김태현, 제진명 -->
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Seoul
-slug: seoul
+title: Europe
+slug: europe
 category: Trip
 menu: false
 order: 1

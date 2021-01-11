@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: VISION
-slug: vision
+title: Soph2
+slug: soph2
 category: class
 menu: false
 order: 2
