@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-vvs:
+hyeonbae_k:
   name:              HyunBae Kim
   email:             gusqo14@naver.com
 
@@ -9,7 +9,7 @@ vvs:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
   about:             |
-    간단한 자기소개
+    **간단한 자기소개**
     저는 인공지능을 배우고 있는 대학생입니다.
 
 
