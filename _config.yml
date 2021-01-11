@@ -27,7 +27,7 @@ hyeonbae:
   email:             gusqo14@naver.com
 
 # Fallback image and color
-image:               /assets/img/barcelona_bunker.JPG
+image:               /assets/img/barcelona_bunker.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
