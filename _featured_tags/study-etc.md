@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Etc
-slug: ect
+slug: etc
 category: study
 menu: false
 order: 2
