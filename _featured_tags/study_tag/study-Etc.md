@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Algorithm
-slug: algorithm
+title: Etc
+slug: etc
 category: study
 menu: false
-order: 1
+order: 4
 ---

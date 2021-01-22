@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Etc
-slug: etc
+title: Deep_Learning_Basic
+slug: deep_learning_basic
 category: study
 menu: false
 order: 2
