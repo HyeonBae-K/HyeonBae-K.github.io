@@ -2,65 +2,65 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               대학 생활 Blog
+title: 대학 생활 Blog
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://hyeonbae-k.github.io/
+url: https://hyeonbae-k.github.io/
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             ""
+baseurl: ""
 
 # A very short description of your page
-tagline:             "대학교를 다니며"
+tagline: "대학교를 다니며"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         >
+description: >
   경영에 AI를 접목한 일을 하고 싶은 학생입니다.  
-  
+
   그 과정을 남겨보려고 합니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 hyeonbae:
-  name:              HyunBae Kim
-  email:             gusqo14@naver.com
+  name: HyunBae Kim
+  email: gusqo14@naver.com
 
 # Fallback image and color
-image:               /assets/img/barcelona_bunker.jpg
-color:               '#4f86aa'
+image: /assets/img/barcelona_bunker.jpg
+color: "#4f86aa"
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
-font_heading:        "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif'"
+font_heading: "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif'"
 
 # The text font. Expects a string that is a valid CSS font-family value.
-font:                "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif'"
+font: "'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif'"
 
 # The string encoding what fonts to fetch from Google Fonts.
 # See: https://qwtel.com/hydejack/docs/configuration/
-google_fonts:        Lato
+google_fonts: Lato
 
 # If you do not use a Google Fonts, uncomment the line below
 # no_google_fonts:     true
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    G-RSV5PWH2RE
+google_analytics: G-RSV5PWH2RE
 
 # 댓글기능
 disqus: True
-disqus_shortname:    xxxx
+disqus_shortname: xxxx
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2021.01. by HYEON'
+copyright: "&copy; 2021.01. by HYEON"
 
 # Format of the permalinks
-permalink:           
+permalink:
 
 # Pagination configuration (used by the `blog` layout)
-paginate:            3
-paginate_path:       '/page-:num/'
+paginate: 3
+paginate_path: "/page-:num/"
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
 # so that the location of the feed XML stays the same.
@@ -86,14 +86,14 @@ paginate_path:       '/page-:num/'
 
 collections:
   featured_categories:
-    permalink:       /category/:name/
-    output:          true
+    permalink: /category/:name/
+    output: true
   featured_tags:
-    permalink:       /tag/:name/
-    output:          true
+    permalink: /tag/:name/
+    output: true
   projects:
-    permalink:       /projects/:path/
-    output:          true
+    permalink: /projects/:path/
+    output: true
 
 # -----------------------------------------------------------------------------
 #  Advanced configuration
@@ -115,29 +115,30 @@ exclude:
   - Gemfile.lock
   - _posts/study/2020-12-26-making-blog04.md
 
-
 kramdown:
-  footnote_backlink: '&#x21a9;&#xfe0e;'
-  math_engine:       mathjax
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  math_engine: mathjax
   math_engine_opts:
-    preview:         true
+    preview: true
     preview_as_code: true
 
 compress_html:
-  comments:          ["<!-- ", " -->"]
-  clippings:         all
-  endings:           all
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  endings: all
   ignore:
-    envs:            [development]
+    envs: [development]
 
 sass:
-  style:             compressed
+  style: compressed
 
 tipue_search:
-     include:
-         pages: false
-         collections: []
-     exclude:
-         files: [search.html, index.html, tags.html]
-         categories: []
-         tags: []
+  include:
+    pages: false
+    collections: []
+  exclude:
+    files: [search.html, index.html, tags.html]
+    categories: []
+    tags: []
+
+og_image: /assets/img/me2.jpg
