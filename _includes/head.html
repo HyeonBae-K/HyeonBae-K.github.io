@@ -21,6 +21,10 @@
 {% elsif tag.header-img %}
   <meta property="og:image" content="{{ site.url }}/assets/{{ tag.header-img }}">
   <br/>
+
+{% elsif tag.header-img %}
+  <meta property="og:image:secure_url" content="{{ site.url }}/assets/img/me2.jpg" />
+
 {% else %}
   <meta property="og:image" content="{{ site.url }}/assets/img/me2.jpg">
 {% endif %}
