@@ -61,7 +61,7 @@ hyeonbae:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    # email:           gusqo14@naver.com #이메일 찾을수 없는 페이지로 넘어감
+    email:           gusqo14@naver.com
     rss:             https://hyeonbae-k.github.io/
 
 # Another author
